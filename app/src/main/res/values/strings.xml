@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AzKi</string>
+    <string name="watch_and_order">مشاهده و سفارش</string>
+    <string name="ten_percent">۱۰٪</string>
+    <string name="tooman">تومان</string>
+    <string name="compare_insurances">مقایسه بیمه‌ها</string>
+    <string name="insurance_company">شرکت بیمه‌ی&#160;</string>
+    <string name="voucher_code">کد تخفیف</string>
+
+    <string-array name="tab_names">
+        <item>فیلترها</item>
+        <item>ارزان‌ترین</item>
+        <item>پوشش ۱۶ میلیون تومان</item>
+    </string-array>
+</resources>
