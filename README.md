@@ -36,5 +36,3 @@ A simple demo app with below features.
 # List of APIs
 GET -> https://bimito.com/api/product/third/prices?marketer=false&vehicleConstructionYear=1399&vehicleColorTitle=red&vehicleChangedOwner=0&vehicleTypeID=6&vehicleUsageID=1&vehicleBrandID=84&vehicleModelID=806662&zeroKilometer=false&withoutInsure=false&installment=false&sanhabInquiryID=&oldCompanyID=7&thirdDiscountID=6&driverDiscountID=6&oldInsureUsed=false&oldInsureStartDate=2020-07-03&oldInsureExpireDate=2021-05-20
 Header Params -> deviceID = 2
-
-# Written By Ali Hajhosseini
