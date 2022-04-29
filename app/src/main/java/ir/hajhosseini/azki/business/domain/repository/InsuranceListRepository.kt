@@ -48,6 +48,6 @@ constructor(
             } catch (e: Exception) {
                 emit(DataState.Error(e))
             }
-            
+
         }
 }
